@@ -14,8 +14,11 @@ Syntax for using the script:
 python3 cracker.py <hashtocrack> <pathtodictionary> <algorithtype>
 ```
 Algorithm types and input for the script:
+
 MD5:  md5sumhex
+
 SHA1: sha1sumhex
+
 SHA256: sha256sumhex
 
 #Example:

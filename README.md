@@ -3,7 +3,7 @@ Dictionary cracker for md5, sha1, or sha256 hashes
 
 ##Requirments:
 ```
-pip2 install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 #How to use:
